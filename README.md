@@ -15,10 +15,10 @@ Objectif : approximation polynomiale d'une fonction f(z) sur [-2, 6] puis calcul
 
 ### Polynôme de Lagrange
 ![Points de mesure](q0_points.png)
-![Polynôme interpolé](q3_lagrange.png)
+![Polynôme interpolé](q3_points.png)
 
 ### Convergence des méthodes d'intégration
-![Erreur log-log](q6_erreur_loglog.png)
+![Erreur log-log](q6_points.png)
 
 | Méthode | Ordre théorique |
 |---|---|
